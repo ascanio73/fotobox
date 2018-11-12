@@ -69,7 +69,7 @@ class Ui_Form_mod(Ui_Form):
 "<hr>"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Drücke einfach auf den Knopf &quot;Neues Foto&quot; und los geht es!</p>"
 "<hr>"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Du kannst du Fotos hier oder per Handy anschauen/runterladen: http://fotobox.ffmyk</p></body></html>")
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Du kannst du Fotos hier anschauen.</p></body></html>")
 
         #Change buttons
         self.l_btn1.setText("Neues Foto ▶")
