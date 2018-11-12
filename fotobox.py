@@ -51,7 +51,7 @@ class Ui_Form_mod(Ui_Form):
         self.l_btn2.setFont(font)
         self.l_btn3.setFont(font)
 
-        self.footerTpl = "Fotobox Version 0.0.2 · sponsored by: BitBastelei · Reichelt Elektronik"
+        self.footerTpl = "Fotobox Version 0.0.2 "
 
         Form.showFullScreen()
 
@@ -63,7 +63,7 @@ class Ui_Form_mod(Ui_Form):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'Sans\'; font-size:17pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Hallo und willkommen in der Fotobox!</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Hallo und Willkommen in der Fotobox!</p>\n"
 "<hr>"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Hier kannst du Fotos von dir und deinen Freunden machen!</p>\n"
 "<hr>"
@@ -153,7 +153,7 @@ class Ui_Form_mod(Ui_Form):
 "</style></head><body style=\" font-family:\'Sans\'; font-size:15pt; font-weight:400; font-style:normal;\">\n"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Alles OK?</p>\n"
 "<hr>"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Wenn ja drücke unten auf den passenden Knopf - dein Foto wird dann gespeichert und kann hier über das Fotobuch oder dein Handy angesehen werden.</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Wenn ja drücke unten auf den passenden Knopf - dein Foto wird dann gespeichert und kann hier  das Fotobuch oder dein Handy angesehen werden.</p>\n"
 "<hr>"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Grimasse doch zu schlimm? Drück auf &quot;Neues Foto&quot; und versuchs gleich nochmal</p></body></html>")
 
@@ -221,7 +221,7 @@ class Ui_Form_mod(Ui_Form):
 "<hr>"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Mit den Knöpfen unten kannst du dir andere Bilder anschauen oder zurück zur Aufnahme gehen.</p>\n"
 "<hr>"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Du kannst du Fotos hier oder per Handy anschauen/runterladen:<br>http://fotobox.ffmyk</p></body></html>")
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Du kannst die Fotos hier anschauen")
 
 
         #Change buttons
